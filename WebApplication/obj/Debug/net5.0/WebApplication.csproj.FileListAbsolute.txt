@@ -1,0 +1,8 @@
+C:\Users\maxx9\RiderProjects\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.csproj.AssemblyReference.cache
+C:\Users\maxx9\RiderProjects\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxx9\RiderProjects\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.AssemblyInfoInputs.cache
+C:\Users\maxx9\RiderProjects\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.AssemblyInfo.cs
+C:\Users\maxx9\RiderProjects\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\maxx9\RiderProjects\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maxx9\RiderProjects\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.RazorAssemblyInfo.cache
+C:\Users\maxx9\RiderProjects\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.RazorAssemblyInfo.cs
